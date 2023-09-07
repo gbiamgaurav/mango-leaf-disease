@@ -1,5 +1,7 @@
 # Mango Leaf Disease 
 
+[find the app here](https://mango-leaf-disease-spdjczea97u4mcahvwr4ng.streamlit.app/)
+
 ## Project Background:
 
 Agriculture plays a vital role in Bangladesh’s economy, contributing 11.5% to the GDP. Fruits comprise 10% of national income. Bangladesh ranks 7th in mango production globally and it is known as the king of fruits. Bangladesh’s annual mango production is around 1.2 million metric tons from over 100,000 acres of land. However, despite its potential, mango production in the country faces challenges, including pest attacks and diseases caused by bacteria, fungi, viruses, and insects. These diseases lead to a substantial annual yield loss of around 30%, impacting farmers’ livelihoods and national production.

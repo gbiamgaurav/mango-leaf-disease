@@ -1,0 +1,46 @@
+schema: '2.0'
+stages:
+  data_ingestion:
+    cmd: python src/mango_leaf_disease/pipeline/stage_01_data_ingestion.py
+    deps:
+    - path: config/config.yaml
+      hash: md5
+      md5: a2ff19383c3125523e56a73dcdf6b60b
+      size: 804
+    - path: src/mango_leaf_disease/pipeline/stage_01_data_ingestion.py
+      hash: md5
+      md5: 953ee170a4f08e2a6bd4bd7349120d6e
+      size: 923
+    outs:
+    - path: artifacts/data_ingestion/mango-leaf-disease
+      hash: md5
+      md5: 0fc34a01bfd43b60e5992b15d9d35e81.dir
+      size: 140668227
+      nfiles: 4000
+  prepare_base_model:
+    cmd: python src/mango_leaf_disease/pipeline/stage_02_prepare_base_model.py
+    deps:
+    - path: config/config.yaml
+      hash: md5
+      md5: a2ff19383c3125523e56a73dcdf6b60b
+      size: 804
+    - path: src/mango_leaf_disease/pipeline/stage_02_prepare_base_model.py
+      hash: md5
+      md5: 1a45c4e51892f1704070c0a5d422fa4a
+      size: 971
+    params:
+      params.yaml:
+        CLASSES: 8
+        IMAGE_SIZE:
+        - 224
+        - 224
+        - 3
+        INCLUDE_TOP: false
+        LEARNING_RATE: 0.01
+        WEIGHTS: imagenet
+    outs:
+    - path: artifacts/prepare_base_model
+      hash: md5
+      md5: 578f5b45f321cd099717111261732a70.dir
+      size: 118661360
+      nfiles: 2

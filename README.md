@@ -8,10 +8,9 @@ Agriculture plays a vital role in Bangladesh’s economy, contributing 11.5% to 
 
 ## Final Outcome 
 
-![Screenshot 1](https://github.com/gbiamgaurav/mango-leaf-disease/assets/81230208/5f3457df-ffab-4022-a50e-2e117b92496b)
+![Screenshot 1](https://github.com/gbiamgaurav/mango-leaf-disease/assets/81230208/abd6a370-1ab8-4d1b-b172-74e1b9ef66d8)
 
-
-![Screenshot 2](https://github.com/gbiamgaurav/mango-leaf-disease/assets/81230208/35db0bfb-0c0e-4cc7-a6c8-768b27b810ef)
+![Screenshot 2](https://github.com/gbiamgaurav/mango-leaf-disease/assets/81230208/584e8885-4d91-4a18-afbf-eb53d7ac6490)
 
 
 ## Problem Statement:

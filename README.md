@@ -43,6 +43,14 @@ Four mango orchards of Bangladesh, namely Sher-e-Bangla Agricultural University 
 Jahangir Nagar University orchard, Udaypur village ,mango orchard, and 
 Itakhola village mango orchard.
 
+## Tech Stack Used:
+
+* Python
+
+* streamlit
+
+* Streamlit cloud
+
 
 
 

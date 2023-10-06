@@ -3,6 +3,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model
+from mango_leaf_disease.pipeline import prediction
 
 # Set Streamlit page title and favicon
 st.set_page_config(
@@ -57,7 +58,4 @@ if uploaded_image is not None:
 
 # Add some space and a footer
 st.write("\n\n")
-st.markdown(
-    "Made with ❤️ by Gaurav Bhattacharya\n"
-    
-)
+

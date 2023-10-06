@@ -1,22 +1,17 @@
 # Mango Leaf Disease 
 
+[find the app here](https://mango-leaf-disease-spdjczea97u4mcahvwr4ng.streamlit.app/)
+
 ## Project Background:
 
 Agriculture plays a vital role in Bangladesh’s economy, contributing 11.5% to the GDP. Fruits comprise 10% of national income. Bangladesh ranks 7th in mango production globally and it is known as the king of fruits. Bangladesh’s annual mango production is around 1.2 million metric tons from over 100,000 acres of land. However, despite its potential, mango production in the country faces challenges, including pest attacks and diseases caused by bacteria, fungi, viruses, and insects. These diseases lead to a substantial annual yield loss of around 30%, impacting farmers’ livelihoods and national production.
 
 ## Final Outcome 
 
-<<<<<<< HEAD
-!(https://github.com/gbiamgaurav/mango-leaf-disease-dhaka/assets/81230208/16a4c462-b76b-4efc-b969-342174a70f01)
+![Screenshot 1](https://github.com/gbiamgaurav/mango-leaf-disease/assets/81230208/abd6a370-1ab8-4d1b-b172-74e1b9ef66d8)
 
+![Screenshot 2](https://github.com/gbiamgaurav/mango-leaf-disease/assets/81230208/584e8885-4d91-4a18-afbf-eb53d7ac6490)
 
-!(https://github.com/gbiamgaurav/mango-leaf-disease-dhaka/assets/81230208/f1c0ef71-7c5e-4ff3-9609-acb8c2dde57c)
-
-=======
-![Screenshot 1](https://github.com/gbiamgaurav/mango-leaf-disease-dhaka/assets/81230208/6a1b0570-b1de-47ba-addc-bdbbd3b2dc43)
->>>>>>> 67ef75ecff55f6bda5c90588d144bd6fc6e8adcd
-
-![Screenshot 2](https://github.com/gbiamgaurav/mango-leaf-disease-dhaka/assets/81230208/289b2e73-4bd6-433f-949e-74476a4f1316)
 
 ## Problem Statement:
 
@@ -47,6 +42,14 @@ Distribution of instances: Each of the eight categories contains 500 images.
 Four mango orchards of Bangladesh, namely Sher-e-Bangla Agricultural University orchard, 
 Jahangir Nagar University orchard, Udaypur village ,mango orchard, and 
 Itakhola village mango orchard.
+
+## Tech Stack Used:
+
+* Python
+
+* streamlit
+
+* Streamlit cloud
 
 
 

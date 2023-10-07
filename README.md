@@ -1,6 +1,6 @@
 # Mango Leaf Disease 
 
-[find the app here](https://mango-leaf-disease-spdjczea97u4mcahvwr4ng.streamlit.app/)
+[find the app here](https://mango-leaf-disease-fbcauxlxqjywqxrryubzse.streamlit.app/)
 
 ## Project Background:
 

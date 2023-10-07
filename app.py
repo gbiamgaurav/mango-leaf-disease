@@ -16,13 +16,13 @@ class ClientApp:
 
 clApp = ClientApp()
 
-st.title("Brain Tumor Classification Web App")
+st.title("Mango Disease Image Classification Web App")
 
 page = st.selectbox("Select a page:", ["Home", "Train", "Predict"])
 
 if page == "Home":
     st.header("Home Page")
-    st.write("Welcome to the Brain Tumor Classification Web App.")
+    st.write("Welcome to the Mango Disease Image Classification Web App.")
     st.write("You can use the navigation bar on the left to access different pages.")
 elif page == "Train":
     st.header("Train Page")
